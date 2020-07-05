@@ -80,9 +80,7 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
-                    Sanbercode
-                </div>
+                <img src="{{asset('/images/quiz3.png')}}">
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
